@@ -82,9 +82,9 @@ Design and demonstrate a **multi-cloud architecture** where services are distrib
 - Optionally: Node.js API invokes **Azure Function** to send a notification or log data
 
 ### OUTPUT
-
-![Image](https://github.com/user-attachments/assets/014e40f6-8683-4fe2-804b-ec4d8c6ad175)
-![Image](https://github.com/user-attachments/assets/6218c093-ffad-4743-a292-a48b3146b37c)
 ![Image](https://github.com/user-attachments/assets/4348a7c1-a967-4eeb-a658-74aced04b0f1)
 ![Image](https://github.com/user-attachments/assets/ea2c4c48-520b-42cf-bb67-a23a1e4c9659)
+![Image](https://github.com/user-attachments/assets/014e40f6-8683-4fe2-804b-ec4d8c6ad175)
+![Image](https://github.com/user-attachments/assets/6218c093-ffad-4743-a292-a48b3146b37c)
+
 
