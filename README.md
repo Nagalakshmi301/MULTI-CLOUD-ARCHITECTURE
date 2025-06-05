@@ -26,8 +26,6 @@ Design and demonstrate a **multi-cloud architecture** where services are distrib
 
 ---
 
-##  Architecture Overview
-
 ###  AWS:
 - **Frontend:** React App hosted on AWS S3 + CloudFront
 - **Backend:** Node.js Express API deployed on EC2
