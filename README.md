@@ -41,6 +41,7 @@ Design and demonstrate a **multi-cloud architecture** where services are distrib
 
 ##  Architecture Diagram
 
+![Image](https://github.com/user-attachments/assets/76ec995c-acf6-4ce5-94f8-96f53dffc03c)
 
 
 ---
